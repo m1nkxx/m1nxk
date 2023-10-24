@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m1nxk
+- 👋 Hi, I’m @m1nkxx
 - 🌱 I’m currently learning python
 - 🤐 getting back in trying Swift 
 - 📫 How to reach me s7mq11@gmail.com
